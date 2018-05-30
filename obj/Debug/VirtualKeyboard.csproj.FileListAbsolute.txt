@@ -1,0 +1,10 @@
+C:\Users\CubeIQ\source\repos\VirtualKeyboard\VirtualKeyboard\bin\Debug\VirtualKeyboard.pdb
+C:\Users\CubeIQ\source\repos\VirtualKeyboard\VirtualKeyboard\obj\Debug\VirtualKeyboard.csprojResolveAssemblyReference.cache
+C:\Users\CubeIQ\source\repos\VirtualKeyboard\VirtualKeyboard\obj\Debug\VirtualKeyboard.Form1.resources
+C:\Users\CubeIQ\source\repos\VirtualKeyboard\VirtualKeyboard\obj\Debug\VirtualKeyboard.Properties.Resources.resources
+C:\Users\CubeIQ\source\repos\VirtualKeyboard\VirtualKeyboard\obj\Debug\VirtualKeyboard.csproj.GenerateResource.cache
+C:\Users\CubeIQ\source\repos\VirtualKeyboard\VirtualKeyboard\obj\Debug\VirtualKeyboard.csproj.CoreCompileInputs.cache
+C:\Users\CubeIQ\source\repos\VirtualKeyboard\VirtualKeyboard\obj\Debug\VirtualKeyboard.pdb
+C:\Users\CubeIQ\source\repos\VirtualKeyboard\VirtualKeyboard\bin\Debug\VirtualKeyboard.exe.config
+C:\Users\CubeIQ\source\repos\VirtualKeyboard\VirtualKeyboard\bin\Debug\VirtualKeyboard.exe
+C:\Users\CubeIQ\source\repos\VirtualKeyboard\VirtualKeyboard\obj\Debug\VirtualKeyboard.exe
